@@ -1,0 +1,23 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: rail_jumper_development
+  pool: 5
+  username: dylanoshea
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: rail_jumper_test
+  pool: 5
+  username: dylanoshea
+  password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: rail_jumper_production
+  pool: 5
+  username: dylanoshea
+  password:

@@ -33,9 +33,12 @@ group :development, :test do
   gem 'annotate'
 
   gem 'quiet_assets'
-  gem 'better_errors'
   gem 'binding_of_caller'
   gem 'meta_request'
 
   gem 'coffee-rails-source-maps'
+end
+
+gem :development do
+  gem 'better_errors' #May cause issues in rspec, separated from the
 end

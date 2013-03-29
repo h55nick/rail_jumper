@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: rail_jumper_development
+  database: CHANGE_ME_development
   pool: 5
   username: dylanoshea
   password:
@@ -9,7 +9,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: rail_jumper_test
+  database: CHANGE_ME_test
   pool: 5
   username: dylanoshea
   password:
@@ -17,7 +17,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: rail_jumper_production
+  database: CHANGE_ME_production
   pool: 5
   username: dylanoshea
   password:

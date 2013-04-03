@@ -1,6 +1,6 @@
 /*
  *= require_self
- *= require normalize
- *= require foundation.min
+ *= require foundation/normalize
+ *= require foundation/foundation.min
  *= require morris.min
  */

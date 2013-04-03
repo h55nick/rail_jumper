@@ -5,4 +5,5 @@
 //= require underscore.min
 //= require sugar.min
 //= require moment.min
-//= require d3.min
+//= require d3.v3.min
+//= require morris.min

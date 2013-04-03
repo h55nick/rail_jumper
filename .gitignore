@@ -13,6 +13,8 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+*.DS_STORE
 
 #ignore the localized database.yml
 database.yml
+

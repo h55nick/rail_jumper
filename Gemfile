@@ -39,6 +39,6 @@ group :development, :test do
   gem 'coffee-rails-source-maps'
 end
 
-gem :development do
+group :development do
   gem 'better_errors' #May cause issues in rspec, separated from the
 end

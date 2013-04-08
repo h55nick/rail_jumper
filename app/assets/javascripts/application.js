@@ -11,3 +11,4 @@
 //= require morris/morris.min
 // graph.min
 //= require jquery-ui-1.10.2.custom.min
+//= change_me.js
